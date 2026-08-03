@@ -1,0 +1,15 @@
+{
+  "_comment": "Birth moments spread across the ephemeris range. Longitude/latitude only matter for houses, which this harness does not compare; planetary longitudes depend on the instant alone.",
+  "charts": [
+    { "id": "1900-epoch",    "date": "1900-01-01", "time": "00:00:00", "tzOffset": 0,   "latitude": 51.48, "longitude": 0.00 },
+    { "id": "1927-paris",    "date": "1927-11-11", "time": "11:11:00", "tzOffset": 1,   "latitude": 48.85, "longitude": 2.35 },
+    { "id": "1945-hiroshima","date": "1945-08-06", "time": "08:15:00", "tzOffset": 9,   "latitude": 34.39, "longitude": 132.45 },
+    { "id": "1961-honolulu", "date": "1961-08-04", "time": "19:24:00", "tzOffset": -10, "latitude": 21.31, "longitude": -157.86 },
+    { "id": "1969-apollo",   "date": "1969-07-20", "time": "20:17:00", "tzOffset": 0,   "latitude": 0.67,  "longitude": 23.47 },
+    { "id": "1990-kyiv",     "date": "1990-05-15", "time": "14:30:00", "tzOffset": 3,   "latitude": 50.45, "longitude": 30.52 },
+    { "id": "2000-j2000",    "date": "2000-01-01", "time": "12:00:00", "tzOffset": 0,   "latitude": 51.48, "longitude": 0.00 },
+    { "id": "2012-chichen",  "date": "2012-12-21", "time": "11:11:00", "tzOffset": -6,  "latitude": 20.68, "longitude": -88.57 },
+    { "id": "2024-leap",     "date": "2024-02-29", "time": "03:07:00", "tzOffset": 0,   "latitude": 51.48, "longitude": 0.00 },
+    { "id": "2050-berlin",   "date": "2050-06-15", "time": "18:45:00", "tzOffset": 2,   "latitude": 52.52, "longitude": 13.40 }
+  ]
+}

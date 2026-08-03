@@ -1,0 +1,11 @@
+{
+  "name": "astrology-accuracy-benchmark",
+  "version": "1.0.0",
+  "description": "Measures an astrology API's planetary longitudes against Astrodienst's swetest, in arcseconds. Runs against any provider.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "benchmark": "node benchmark.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
