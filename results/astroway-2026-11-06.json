@@ -1,0 +1,30 @@
+{
+  "provider": "astroway",
+  "reference": "swetest CGI (Astrodienst)",
+  "measuredAt": "2026-11-06",
+  "charts": 10,
+  "samples": 130,
+  "medianArcsec": 0.0013,
+  "maxArcsec": 0.561,
+  "worstCase": {
+    "body": "Chiron",
+    "chart": "1900-epoch",
+    "arcsec": 0.561
+  },
+  "byBody": {
+    "Sun": 0.001,
+    "Moon": 0.022,
+    "Mercury": 0.002,
+    "Venus": 0.001,
+    "Mars": 0.007,
+    "Jupiter": 0.009,
+    "Saturn": 0.001,
+    "Uranus": 0.083,
+    "Neptune": 0.223,
+    "Pluto": 0.097,
+    "true Node": 0.004,
+    "mean Apogee": 0,
+    "Chiron": 0.561
+  },
+  "bodiesNotReturned": []
+}

@@ -56,7 +56,7 @@ So read the number against what you are building, not as a leaderboard.
 
 ## Results
 
-AstroWay API, measured 2026-07-29, 130 samples:
+AstroWay API, measured 2026-11-06 (unchanged from the first run on 2026-07-29), 130 samples. The raw output is in [`results/`](results/).
 
 | Body | Max drift |
 |---|---|
